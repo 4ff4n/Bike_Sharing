@@ -49,17 +49,6 @@ This jupyter notebook describe the whole project from udacity, from the beginnin
 The whole project is located in the jupyter notebook file `Your_first_neural_network.ipynb` and it's include the training an the prediction part. The neural network is implemented in the file `my_answer.py` and used from the jupyter notebook.
 
 
-See the visual results over iteration:
-
-![training results](./assets/result_training.png)
-
-## Checkout the prediction results
-
-I use the test data to show how well the neural network is modeling the data.
-
-![training results](./assets/result_prediction.png)
-
-## Improvements
 
 This is actually my best version of bike-sharing-patterns.
 The next steps will be:
